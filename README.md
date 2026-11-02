@@ -6,7 +6,7 @@
 
 > This GitHub repository is a public product overview and preview. The complete playbook is a paid digital PDF; the full document is not included here.
 
-![Watermarked cover preview](assets/playbook-cover-preview.png)
+![Watermarked cover preview](assets/playbook-cover-preview.svg)
 
 ## Review production code with a repeatable system
 
@@ -24,7 +24,7 @@ It is designed to help engineers make review conversations more concrete: identi
 
 ## What is inside
 
-![Eight-chapter preview](assets/eight-chapters-preview.png)
+![Eight-chapter preview](assets/eight-chapters-preview.svg)
 
 | Chapter | Review area | Topics shown in the playbook |
 |---|---|---|
@@ -39,7 +39,7 @@ It is designed to help engineers make review conversations more concrete: identi
 
 ## A sample of the approach
 
-![Release-readiness sample](assets/release-readiness-sample.png)
+![Release-readiness sample](assets/release-readiness-sample.svg)
 
 The sample release-readiness page frames production readiness around evidence in four areas:
 
@@ -85,3 +85,7 @@ Checkout: https://luminovc.gumroad.com/l/angcrg
 ---
 
 **Published by LIMINOVC** · [Gumroad product page](https://luminovc.gumroad.com/l/angcrg)
+
+## Search topics
+
+Production code review, software engineering, TypeScript, Node.js, PostgreSQL, secure coding, code quality, engineering best practices, API design, data integrity, application security, reliability engineering, performance engineering, software testing, DevOps, release engineering, incident analysis, backend development and production readiness.
